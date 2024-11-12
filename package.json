@@ -31,7 +31,7 @@
     "typescript-eslint": "^7.16.0",
     "eslint": "^8.57.0",
     "prettier": "^3.3.2",
-    "@types/cookie": "^0.6.0",
+    "@types/cookie": "^1.0.0",
     "@types/js-yaml": "^4.0.9",
     "@types/node": "^20.14.2",
     "@vitest/coverage-v8": "^1.6.0",
@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "@aws-amplify/api-graphql": "^4.1.6",
-    "cookie": "^0.6.0",
+    "cookie": "^1.0.1",
     "graphql": "^16.9.0",
     "valibot": "^0.35.0"
   },
@@ -50,7 +50,7 @@
     "@authsure/flow-client": "^0.0.4",
     "@aws-amplify/api-graphql": "^4.1.6",
     "aws-amplify": "^6.3.6",
-    "cookie": "^0.6.0"
+    "cookie": "^1.0.1"
   },
   "exports": {
     ".": {
