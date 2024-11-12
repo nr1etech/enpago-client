@@ -1,7 +1,7 @@
 {
   "name": "@nr1etech/client",
   "description": "enpago client",
-  "version": "0.1.0",
+  "version": "0.1.1-beta.0",
   "type": "module",
   "author": "NR1E, Inc",
   "publishConfig": {
